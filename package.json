@@ -32,7 +32,7 @@
   },
   "dependencies": {
     "es5-shim": "^4.5.9",
-    "tal-page-strategies": "1.1.7"
+    "tal-page-strategies": "git://github.com/rafcourt/tal-page-strategies.git"
   },
   "scripts": {
     "test": "grunt full --verbose",
